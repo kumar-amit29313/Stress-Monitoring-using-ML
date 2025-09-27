@@ -15,9 +15,7 @@ A machine learning project to analyze, model, and predict stress levels among st
 🛠️ Tools & Libraries
 
 Python, Pandas, Numpy
-
 Seaborn, Matplotlib
-
 Scikit-learn
 
 Jupyter Notebook
