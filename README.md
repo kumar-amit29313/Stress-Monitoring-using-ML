@@ -50,4 +50,6 @@ README.md – Project summary
 
 📎 Dataset
 
+Available on Kaggle : https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets
+
 StressLevelDataset.csv
